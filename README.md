@@ -1,16 +1,25 @@
-# appusers
+# App Users
+> App desenvolvido para o teste de conhecimento Flutter/Java (Wk Technology).
 
-A new Flutter application.
+# Solução
+## API desenvolvida em Java Spring Boot com todos os endpoints para o CRUD de um usuário:
+* GET: /employees/ (employee list)
+* POST: /employees/ (employee create)
+* UPDATE /employees/ID/ (employee update)
+* DELETE /employees/ID/ (employee delete)
+* GET /employees/ID/ (employee detail)
 
-## Getting Started
+Persistência com MySQL.
+Deploy local para testes com Glassfish.
 
-This project is a starting point for a Flutter application.
+# Imagens
+![](header.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Time
+
+José Vinícius  – lopesvinicius1707@gmail.com
+
+
+
