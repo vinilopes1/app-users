@@ -2,15 +2,9 @@
 > App desenvolvido para o teste de conhecimento Flutter/Java (Wk Technology).
 
 # Solução
-## API desenvolvida em Java Spring Boot com todos os endpoints para o CRUD de um usuário:
-* GET: /employees/ (employee list)
-* POST: /employees/ (employee create)
-* UPDATE /employees/ID/ (employee update)
-* DELETE /employees/ID/ (employee delete)
-* GET /employees/ID/ (employee detail)
-
-Persistência com MySQL.
-Deploy local para testes com Glassfish.
+## Aplicação em Flutter desenvolvida para o consumo da API em Java Spring Boot:
+* Aplicação contem animações no List View, Float Action Button, DraggableScrollable
+* Realiza todo o CRUD de um usuário
 
 # Imagens
 ![](header.png)
