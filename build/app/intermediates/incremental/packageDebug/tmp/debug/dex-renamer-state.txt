@@ -1,0 +1,4 @@
+#Fri Nov 06 11:56:14 BRT 2020
+base.0=/home/vinicius/Documentos/Estudos/Flutter/PlayingWithFlutter/appusers/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
